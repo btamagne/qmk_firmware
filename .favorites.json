@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Directory",
+        "name": "/home/btamagne/github_repos/qmk_firmware/keyboards/gmmk/pro/rev1/ansi/keymaps/btamagne",
+        "parent_id": null,
+        "workspaceRoot": "/home/btamagne/github_repos/qmk_firmware",
+        "workspacePath": "keyboards/gmmk/pro/rev1/ansi/keymaps/btamagne",
+        "id": "lnHYsRthZd8WuVz5"
+    },
+    {
+        "type": "Directory",
+        "name": "/home/btamagne/github_repos/qmk_firmware/.build",
+        "parent_id": null,
+        "workspaceRoot": "/home/btamagne/github_repos/qmk_firmware",
+        "workspacePath": ".build",
+        "id": "rvCd86RjHFX9gTm4"
+    }
+]
